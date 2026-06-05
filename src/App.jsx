@@ -16,7 +16,6 @@ import TreatmentsList from "./TreatmentsList";
 import TreatmentForm from "./TreatmentForm";
 import Gallery from "./AdminGallery";
 import Appointments from "./Appointments";
-import AppointmentForm from "./AppointmentForm";
 import Leads from "./Leads";
 import Subscribers from "./Subscribers";
 import Contact from "./Contact";
